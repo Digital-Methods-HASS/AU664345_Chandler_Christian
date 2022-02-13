@@ -1,0 +1,87 @@
+Given_or_assumed_name;Historical_name;Imperial_dynasty;First_Appointed_by;Start_reign_year;Start_reign_month;Start_reign_day;End_reign_year;End_reign_month;End_reign_day;Notes_reign;Notes_date;Death;Circumstance_death;Chosen_succesor;Authors;Dictionary:
+Gaius_Octavian;Augustus;Julio_Claudian;Senate;27;1;1;14;8;19;"From_adoption_of_""augustus""_title";Reign_started_BC;Natural_death;NA;Yes;Grant;NA: Either indicates lack of data or notable differences in the sources
+Tiberius_Caudius_Nero;Tiberius;Julio_Claudian;Senate;14;8;19;37;3;NA;NA;NA;Natural_death;NA;Yes;Grant;Natural_death: accident, disease, old age, etc.
+Gaius_Jjulius_Caesar_Germanicus;Caligula;Julio_Claudian;Senate;37;3;NA;41;1;24;NA;NA;Stabbed;Praetorian_death;NA;Grant;Suicide: killed himself
+Tiberius_Claudius_Nero_Germanicus;Claudius;Julio_Claudian;Praetorian;41;1;24;54;10;NA;NA;NA;Poison;Family_death;Yes;Grant;Method_unkown: murdered, but the method unkown
+Nero_Lucius_Domitius_Ahenobarbus;Nero;Julio_Claudian;Praetorian;54;10;NA;68;6;9;NA;NA;Suicide;Slave_or_Household_death;NA;Grant, Shotter;strangled: strangled to death
+Servius_Sulpius_Galba;Galba;NA;Senate;68;6;NA;69;2;15;Declared_during_emperor;NA;Method_unkown;Praetorian_death;Yes;Grant, Shotter;Poisoned: murdered using poison
+Marcus_Salvius_Otho;Otho;NA;Praetorian;69;1;15;69;4;16;NA;NA;Suicide;NA;NA;Grant, Shotter;Stabbed: stabbed to death
+Aulus_Vitellius;Vitellius;NA;Army;69;1;NA;69;12;20;Declared_during_emperor;NA;Method_unkown;NA;NA;Grant, Shotter;Praetorian_death: murded by the pretorian guard
+Titus_Flavius_Vespasianus;Vespasian;Flavian;Army;69;7;1;79;6;24;Declared_during_emperor;NA;Natural_death;NA;Yes;Grant, Shotter,  Andress;Slave_or_Household: slaves or household was involved 
+Titus_Flavius_Vespasianus;Titus;Flavian;Senate;79;6;24;81;9;13;Coruler;NA;Natural_death;NA;NA;Grant,  Andress;Senate_death: murder either done by or orded by the Senat 
+Titus_Flavius_Domitianus;Domitian;Flavian;Praetorian;81;9;13;96;9;18;NA;NA;Method_unkown;Praetorian_death;NA;Grant, Jones;Family_death: murded by his own family
+Marcus_Cocceius_Nerva;Nerva;Adoptive_Antonine_Emperors;Senate;96;9;13;98;1;27;NA;NA;Natural_death;NA;Yes;Grant, Griffin;Army_death: murded by or orded to commit suicide by part of the army
+Marcius_Ulpius_Trajanus;Trajan;Adoptive_Antonine_Emperors;Senate;98;1;27;117;8;8;Coruler;NA;Natural_death;NA;Yes;Grant, Griffin;
+Publius_Aelius_Hadrianus;Hadrian;Adoptive_Antonine_Emperors;Senate;117;8;9;138;7;10;NA;NA;Natural_death;NA;Yes;Grant, Griffin;
+Titus_Aurelius_Fulvus_Boionius_Antoninus;Antoninus_Pius;Adoptive_Antonine_Emperors;Senate;138;7;10;161;3;7;Coruler;NA;Natural_death;NA;Yes;Grant, Birley;
+Lucius_Ceionius_Commodus;Lucius_Verus;Adoptive_Antonine_Emperors;Senate;161;3;7;169;1;NA;Coruler;NA;Natural_death;NA;NA;Grant, Birley;
+Marcus_Annius_Verus;Marcus_Aurelius;Adoptive_Antonine_Emperors;Senate;161;3;7;180;3;17;Coruler;NA;Natural_death;NA;Yes;Grant, Birley;
+Lucius_Aurelius;Commodus;Adoptive_Antonine_Emperors;Senate;180;3;17;192;12;31;Coruler;NA;Strangled;Praetorian_death;NA;Grant, Birley;
+Publius_Helvius_Pertinax;Pertinax;NA;Praetorian;192;12;31;193;3;28;NA;NA;Stabbed;Praetorian_death;NA;Grant, Campbell;
+Marcus_Didius_Severus_Julianus;Didius_Julianus;Severan;Praetorian;193;3;28;193;6;1;NA;Start_date_not_certain;Method_unkown;Senate_death;NA;Grant, Campbell;
+Lucius_Septimius_Severus;Septimus_Serverus;Severan;Army;193;4;9;211;2;4;Declared_during_emperor;NA;Natural_death;NA;Yes;Grant, Campbell, Asante;
+Gaius_Pescennius_Niger;Pescennius_Niger;NA;Army;193;4;NA;194;NA;NA;Declared_during_emperor;NA;Method_unkown;Army_death;NA;Grant, Campbell;
+Decimus_Clodius_Septimius_Albinus;Clodius_Albinus;NA;Army;194;NA;NA;197;2;19;Declared_during_emperor;NA;Stabbed;Army_death;NA;Grant, Campbell;
+Julius_Bassianus;Caracalla;Severan;Senate;211;2;4;217;4;8;Coruler;NA;Stabbed;Praetorian_death;NA;Grant, Campbell, Asante;
+Publius_Septimius_Geta;Geta;Severan;Senate;211;2;4;211;12;26;Coruler;NA;Stabbed;Family_death;NA;Grant, Campbell, Asante;
+Marcus_Opellius_Macrinus;Macrinus;NA;Army;211;4;10;218;6;8;NA;NA;Method_unkown;Praetorian_death;NA;Gant, Campbell;
+Varius_Avitus;Elagabalus;Severan;Army;218;5;16;222;3;11;Declared_during_emperor;NA;Method_unkown;Praetorian_death;Yes;Gant, Campbell;
+Marcus_Julius_Gessius_Alexianus;Severus_Alexander;Severan;Senate;222;3;11;235;3;NA;Coruler;NA;Method_unkown;Army_death;NA;Gant, Campbell;
+Gaius_Julius_Verus_Maximinus;Maximinus_I;NA;Army;235;2;NA;238;4;10;Declared_during_servus_alexander;NA;Method_unkown;Army_death;Yes;Grant, Campbell, Drinkwater;
+Marcus_Antonius_Sempronianus_Romanus;Gordian_I;Gordiani;Senate;238;3;19;238;4;2;Declared_during_emperor;NA;Suicide;NA;Yes;Grant, Drinkwater;
+Marcus_Antonius_Sempronianus_Romanus;Gordian_II;Gordiani;Senate;238;3;19;238;4;2;Coruler;NA;Method_unkown;Army_death;NA;Grant, Drinkwater;
+Decimus_Cealius_Calvinus_Balbinus;Balbinus;NA;Senate;238;4;NA;238;7;NA;Declared_during_emperor;NA;Method_unkown;Praetorian_death;Yes;Grant, Drinkwater;
+Marcus_Clodius_Pupienus_Maximus;Pupienus;NA;Senate;238;4;NA;238;7;NA;Coruler;NA;Method_unkown;Praetorian_death;Yes;Grant, Drinkwater;
+Marcus_Antonius_Gordianus;Gordian_III;Gordiani;Senate;238;NA;NA;244;2;25;Coruler;Start_date_before_0238/07/NA;Method_unkown;NA;NA;Grant, Drinkwater;
+Marcus_julius_Verus_Philippus;Philip_I;NA;Army;244;3;NA;249;8;NA;NA;NA;Method_unkown;Army_death;Yes;Grant, Drinkwater;
+Gaius_Messius_Quintus_Decius;Trajanus_Decius;NA;Army;249;6;NA;251;7;NA;Declared_during_emperor;NA;Method_unkown;NA;Yes;Grant, Drinkwater;
+Gaius_Vibius_Afinius_Trenonianus_Gallus;Trebonianus_Gallus;NA;Army;251;7;NA;253;7;NA;NA;Start_date_after_Trejanus_Decius;Method_unkown;Army_death;Yes;Grant, Drinkwater;
+Marcus_Ameilius_Ameilianus;Aemilian;NA;Army;253;7;NA;253;9;NA;Declared_during_emperor;NA;Stabbed;Army_death;NA;Grant, Drinkwater;
+Publius_Licinius_Valerianus;Valerian;Valeriani;Army;253;7;NA;260;NA;NA;"Declared_during_emperor;";NA;NA;NA;Yes;Grant, Drinkwater;
+Publius_Licinius_Egnatius;Gallienus;Valeriani;Senate;253;7;NA;268;9;NA;Coruler;NA;Stabbed;Army_death;Yes;Grant, Drinkwater;
+Marcus_Aurelius_Valerius_Claudius;Claudius_Gothicus;NA;Senate;268;9;NA;270;1;NA;NA;NA;Natural_death;NA;NA;Grant, Drinkwater;
+Marcus_Aurelius_Quintillus;Quintillus;NA;Senate;270;1;NA;270;7;NA;NA;NA;Suicide;NA;NA;Grant, Drinkwater;
+Lucius_Domitius_Aurelianus;Aurelian;NA;Army;270;7;NA;275;10;NA;Declared_during_emperor;NA;Stabbed;Praetorian_death;NA;Grant, Drinkwater;
+Marcus_Claudius_Tacitus;Tacitus;NA;Army;275;11;NA;276;5;NA;NA;NA;NA;NA;NA;Grant, Drinkwater;
+marcus_annius_Florianus;Florian;NA;NA;276;6;NA;276;8;NA;NA;NA;Method_unkown;Army_death;NA;Grant, Drinkwater;
+Marcus_Aurelius_Equitius_Probus;Probus;NA;Army;276;7;NA;282;NA;NA;Declared_during_emperor;End_date_early_winter;Method_unkown;Army_death;NA;Grant, Drinkwater;
+Marcus_Aurelius_Numerius_Carus;Carus;Carini;Army;282;NA;NA;283;7;NA;Declared_during_emperor;Start_date_late_autumn;NA;NA;Yes;Grant, Drinkwater;
+Marcus_Aurelius_Carinus;Carinus;Carini;Senate;282;NA;NA;285;NA;NA;Coruler;End_date_spring;Method_unkown;Army_death;NA;Grant, Drinkwater;
+Marcus_Aurelius_Numerius_Numerianus;Numerian;Carini;Senate;282;NA;NA;284;NA;NA;Coruler;NA;Method_unkown;Family_death;NA;Grant, Drinkwater;
+Diocles;Diocletian;NA;Army;284;11;20;305;5;1;Declared_during_emperor;NA;Abdicated;NA;Yes;Grant, Bowman;
+Aurelius_Maximianus;Maximian;NA;Senate;285;4;1;305;5;1;Coruler;NA;Abdicated;NA;Yes;Grant, Bowman;
+Flavius_Julius_Constantius;Constantius_I;Constantine;Senate;305;5;1;306;7;25;Coruler;NA;Natural_death;NA;NA;Grant, Bowman;
+Gaius_Galerius;Galerius;NA;Senate;305;5;1;311;5;NA;Coruler;NA;Natural_death;NA;Yes;Grant, Bowman;
+Severus;Severus_II;NA;Senate;306;8;NA;307;NA;NA;Coruler;End_date_spring;Method_unkown;Army_death;NA;Grant, Bowman;
+Marcus_Aurelius_Valerius_Maxentius;Maxentius;NA;Senate;306;8;NA;312;NA;NA;Declared_during_emperor;NA;Method_unkown;NA;NA;Grant, Bowman;
+Flavius_Valerius_Constantius;Constantines_I;Constantine;Army;306;7;25;337;5;22;Declared_during_emperor;NA;Natural_death;NA;Yes;Grant, Hunt;
+Aurelius_Maximianus;Maximian;NA;Senate;307;2;1;308;NA;NA;Declared_during_emperor;NA;Abdicated;NA;Yes;Grant, Hunt;
+Licinius_Licinianus;Licinius;NA;Senate;308;NA;NA;324;NA;NA;Coruler;NA;Method_unkown;Senate_death;NA;Grant, Hunt;
+Aurelius_Maximianus;Maximian;NA;Army;310;NA;NA;310;NA;NA;Declared_during_emperor;NA;Suicide;NA;NA;Grant, Hunt;
+Maximianus_Daia;Maximinus_II_Daia;NA;Army;310;NA;NA;313;8;NA;Declared_during_emperor;NA;Natural_death;NA;NA;Grant, Hunt;
+Flavius_Claudius_Constantinus;Constantine_II;Constantine;Senate;337;5;22;340;NA;NA;Coruler;End_date_late_summer;Method_unkown;Family_death;NA;Grant, Hunt;
+Flavius_Julius_Constantius;Constantinus_II;Constantine;Senate;337;5;22;361;11;3;Coruler;NA;Natural_death;NA;Yes;Grant, Hunt;
+Flavius_Julius_Constans;Constans_I;Constantine;Senate;337;5;22;350;2;NA;Coruler;NA;Method_unkown;Army_death;NA;Grant, Hunt;
+Flavius_Magnus_Magnentius;Magnentius;NA;NA;350;1;18;353;8;10;Declared_during_emperor;NA;Suicide;NA;NA;Grant, Hunt;
+Flavius_Claudius_Julianus;Julian;Constantine;Army;360;11;6;363;6;27;Declared_during_emperor;NA;Method_unkown;NA;NA;Grant, Hunt;
+Flavius_Jovianus;Jovian;NA;Army;363;6;27;364;1;NA;NA;NA;NA;NA;Yes;Grant, Curran;
+Flavius_Valentinianus;Valentinian_I;Valentinianic;Army;364;2;25;375;11;17;NA;NA;Natural_death;NA;Yes;Grant, Curran;
+Flavius_Julius;Valens;Valentinianic;Senate;364;3;28;378;8;9;Coruler;NA;Method_unkown;NA;Yes;Grant, Curran;
+Flavius_Gratianus;Gratian;Valentinianic;Senate;367;8;27;383;8;23;Coruler;NA;Method_unkown;Army_death;Yes;Grant, Curran;
+Flavius_Valentinianus;Valentinian_II;Valentinianic;Army;375;11;NA;392;5;15;Coruler;NA;Method_unkown;Army_death;Yes;Grant, Curran;
+Flavius_Theodosius;Theodosius_I;Theodosian;Senate;379;1;19;395;1;17;Coruler;NA;Natural_death;NA;Yes;Grant, Blockley;
+Magnus_Maximus;Magnus_Maximus;NA;Army;383;NA;NA;388;8;28;Declared_during_emperor;Start_date_spring;Method_unkown;Army_death;Yes;Grant, Blockley;
+Flavius_Honorius;Honorius;Theodosian;Senate;395;1;17;423;8;NA;Coruler;NA;Natural_death;NA;NA;Grant, Blockley;
+Flavius_Claudius_Constantinus;Constantine_III;NA;Army;407;NA;NA;411;9;NA;Declared_during_emperor;NA;Method_unkown;Army_death;NA;Grant, Blockley;
+Constantius;Constantius_III;NA;Senate;421;2;NA;421;9;NA;Coruler;NA;Natural_death;NA;NA;Grant, Blockley;
+Johannes;Johannes;NA;NA;423;9;NA;425;6;NA;NA;NA;Method_unkown;NA;NA;Grant, Blockley, Heather;
+Flavius_Placidus_Valentinianus;Valentinian_III;NA;Senate;425;10;23;455;3;16;NA;NA;Method_unkown;Family_death;NA;Grant, Heather;
+Flavius_Petronius_Maximus;Petronius_Maximus;NA;NA;455;3;17;455;5;31;NA;NA;Method_unkown;NA;NA;Grant, Heather;
+Marcus_Maecilius_Flavius_Eparchius_Avitus;Avitus;NA;Senate;455;7;9;456;10;17;NA;End_date_early_winter;Method_unkown;Senate_death;NA;Grant, Heather;
+Julius_Valerius_Majorianus;Majorian;NA;Senate;457;12;28;461;8;2;NA;NA;Method_unkown;Army_death;NA;Grant, Heather;
+Libius_Severus;Libius_Severus;NA;Army;461;11;19;465;11;14;NA;NA;Poison;Army_death;NA;Grant, Heather;
+Procopius_Anthemius;Anthemius;NA;Army;467;NA;NA;472;7;11;NA;Start_date_spring;Method_unkown;Army_death;NA;Grant, Heather;
+Anicius_Olybrius;Olybrius;NA;Army;472;4;NA;472;11;2;NA;NA;Natural_death;NA;NA;Grant, Heather;
+Glycerius;Glycerius;NA;Army;473;3;3;474;6;NA;NA;End_date_06_disputed;Abdicated;NA;NA;Grant, Heather;
+Julius_Nepos;Julius_Nepos;NA;Army;474;6;NA;480;5;9;Declared_during_emperor;Fall_Rome_0476/09/04;Method_unkown;Slave_or_Household_death;NA;Grant, Heather;
+Romulus;Romulus;NA;Army;475;10;NA;476;9;4;Declared_during_emperor;Fall_Rome_0476/09/04;Abdicated;NA;Yes;Grant, Heather;
