@@ -10,3 +10,4 @@ For the please see the following:
 - Dynasty.Rplot.pdf
 - Death.Rplot.pdf
 - Circumstances.Rplot.pdf
+- DigitalExam_1.R
