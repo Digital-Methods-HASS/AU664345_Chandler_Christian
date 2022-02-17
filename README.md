@@ -6,10 +6,10 @@ Create Interactive Maps in R Following the Leaflet tutorial, develop a mini-proj
 Please see the files: Sarahs_life.R and Sarahs_FavoritePlacesDM2021.
 
 For the please Final Exam Project please see the following files:
-- list_of_emperors_1.csv
+- list_of_emperors_exam.csv
 - Appointed.Rplot.pdf
 - Circumstances.Rplot.pdf
 - Death.Rplot.pdf
 - Dynasty.Rplot.pdf
+- Notes_Reign.Rplot.pdf
 - 
-- DigitalExam_1.R
